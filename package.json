@@ -1,6 +1,5 @@
 {
   "name": "google_keep_cloneproject",
-  "homepage": "https://rahulkumardeveloper.github.io/Google_Keep_clone_Project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,8 +16,6 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
